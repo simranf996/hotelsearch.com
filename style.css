@@ -1,0 +1,115 @@
+body, html{
+	background-color: #353537;
+}
+
+.clsHeader {
+
+	font-family: Ruda, sans-serif;
+	text-align: center;
+	height: 120px;
+	color: #eed9b7;
+	font-size: 50px;
+	font-weight: 100;
+  letter-spacing: 0.9px;
+	word-spacing: 3px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0%;
+	line-height: 150px;
+
+}
+
+.clsData {
+
+  background-color: #353537;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 16px;
+  color: #eed9b7;
+  font-family: Ruda, sans-serif;
+	border-bottom: 1px solid #72a899;
+
+}
+
+.clsFormInput {
+
+  background-color: #353537;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 16px;
+  color: #eed9b7;
+  font-family: Ruda, sans-serif;
+	border-color: #ffd152;
+	border: 1px solid;
+	border-style: solid;
+	Height: 50px;
+
+
+}
+
+.clsSelect {
+
+	background-color: #353537;
+	color: #ffd152;
+	font-family: Ruda, sans-serif;
+	font-size: 15px;
+}
+
+.clsbutton {
+
+  background-color: #ffd152;
+  border: none;
+  color: #353537;
+  padding: 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  display: inline-block;
+  font-size: 16px;
+  font-family: Ruda, sans-serif;
+	Height: 50px;
+
+
+}
+
+.clsLabel{
+
+    font-family: Ruda, sans-serif;
+    color: #eed9b7;
+    font-size: 20px;
+		border: none;
+
+
+}
+
+.clsSearchLabel{
+
+    font-family: Ruda, sans-serif;
+    color: #eed9b7;
+    font-size: 16px;
+		border: none;
+
+}
+
+.clsTable1 th, td {
+    border-bottom: 1px solid #72a899;
+		border-left: none;
+		border-right: none;
+}
+
+ th, td {
+    border: none;
+}
+
+.navig a {
+
+	text-decoration: none;
+	color: Black;
+}
+
+p{
+	font-family: Lato, sans-serif;
+	color: #78af9f;
+	font-size: 15px;
+	text-align: center;
+}
